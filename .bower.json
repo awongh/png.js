@@ -1,0 +1,14 @@
+{
+  "name": "png-js",
+  "version": "0.1",
+  "main": "./png.js",
+  "keywords": [
+    "png",
+    "png.js"
+  ],
+  "_source": "git://github.com/awongh/png.js.git"
+  "ignore": [
+    "README.md",
+    "package.json"
+  ]
+}
